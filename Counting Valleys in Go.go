@@ -52,13 +52,12 @@ class Result
         }
             
         }
-        
-        
-        
+             
     return valleys;
     }
 
 }
+
 
 class Solution
 {
