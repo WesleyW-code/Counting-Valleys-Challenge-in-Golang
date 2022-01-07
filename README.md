@@ -2,7 +2,7 @@
 
 This was a challenge I completed on HackerRank.
 
-If you want to see how it works use my CountingValleys function in the same challenge on https://www.hackerrank.com/challenges/counting-valleys/problem.
+If you want to see how it works use my countingValleys function in the same challenge on https://www.hackerrank.com/challenges/counting-valleys/problem.
 
 Explaining the challenge:
 
